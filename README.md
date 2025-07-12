@@ -27,7 +27,3 @@ a passionate developer from Thailand 🇹🇭 who enjoys building useful tools, 
 ---
 
 
-
-## 🙏 Thanks for stopping by!
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=surachetk&color=blue)
