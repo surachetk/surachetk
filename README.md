@@ -1,7 +1,3 @@
-# 👋 Hello! Welcome to my GitHub 👋
-
----
-
 ## 🙋‍♂️ About Me
 
 Hi! I'm **Surachet**,  
