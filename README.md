@@ -1,12 +1,17 @@
-# Hi 👋, I'm Surachet Kamlangpan
+Surachet Kamlangpan
+IT Manager | Practical Solutions for Manufacturing & Automation
+I’m an IT Manager with over 10 years of experience making sure technology actually serves the business. My focus is straightforward: delivering ERP systems and digital tools that work in the real world to cut costs and fix inefficiencies.
 
-IT Manager | Digital Transformation & Automation Specialist 🏭
+🚀 Business Impact
+Strategic Planning: Developed IT Roadmaps that scale with factory operations and business growth.
 
-- 🔭 Currently leading IT operations at **Nam Ngai Hong Industry Co., Ltd.**
-- 🛡️ Specialized in **Cybersecurity** and **Cloud Infrastructure** (ComTIA Cloud+).
-- ⚡ Leveraging **Agentic Workflows (n8n)** and **Python** to drive business ROI.
-- 📊 Expertise in **ERP Ecosystems** (SAP, Odoo, Exact Globe).
-- 📫 Let's connect: **surachetk@gmail.com**
+ERP & Governance: Manage integrations for SAP, Odoo, and Exact Globe, ensuring production and accounting data stay in sync.
+
+Automation for ROI: Using n8n (Agentic Workflows) and Python to build custom automation that solves specific business bottlenecks.
+
+Reliability & Security: Maintain high-availability infrastructure with a focus on cybersecurity (CompTIA Cloud+ and Cybersecurity certified).
+
+Smart Factory: Built a real-time Barcode Validation system for conveyor lines to reduce human error and labor costs.
 
 ---
 
