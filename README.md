@@ -11,7 +11,7 @@ I am an IT Manager with over 10 years of experience ensuring technology actually
 * **Strategic Planning:** Developing IT Roadmaps that scale alongside factory operations and business growth.
 * **ERP & Governance:** Managing integrations for SAP, Odoo, and Exact Globe to ensure production and accounting data stay in sync.
 * **Automation for ROI:** Using **n8n (Agentic Workflows)** and **Python** to build custom automation that solves specific business bottlenecks and reduces costs.
-* **Reliability & Security:** Maintaining high-availability infrastructure with a focus on cybersecurity (**CompTIA Cloud+** and **Cybersecurity** certified).
+* **Reliability & Security:** Maintaining high-availability infrastructure with a focus on cybersecurity.
 * **Smart Factory:** Built a real-time Barcode Validation system for conveyor lines to reduce human error and labor costs.
 
 ---
