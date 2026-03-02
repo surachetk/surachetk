@@ -20,7 +20,7 @@ I am an IT Manager with over 10 years of experience ensuring technology actually
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,n8n,docker,js,react,mysql,postgres,git,linux,vscode,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,docker,js,react,mysql,postgres,git,linux,vscode,postman&theme=dark" />
   </a>
 </p>
 
