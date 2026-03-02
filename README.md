@@ -20,14 +20,10 @@
 ---
 
 ### 📈 Connect with me:
-<p align="left">
-<a href="mailto:surachetk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://www.linkedin.com/in/surachet-kamlangpan">
-  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-</p>
+
+LinkedIn: https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin
+
+Gmail: https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335
 
 ---
 *“Focusing on practical ERP solutions and digital tools that cut unnecessary costs.”*
