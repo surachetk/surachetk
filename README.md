@@ -13,7 +13,7 @@
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,n8n,docker,js,react,mysql,postgres,git,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,docker,js,react,mysql,postgres,git,linux,vscode&theme=dark" />
   </a>
 </p>
 
