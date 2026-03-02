@@ -1,11 +1,6 @@
 # Surachet Kamlangpan
 
 ### IT Manager | Practical Solutions for Manufacturing & Automation
-I’m an IT Manager with over 10 years of experience making sure technology actually serves the business. My focus is straightforward: delivering ERP systems and digital tools that work in the real world to cut costs and fix issues in business processes.
-
----
-
-### 🚀 Business Impact
 * Strategic Planning: Developed IT Roadmaps that scale alongside factory operations and business growth.
 * ERP & Governance: Manage integrations for SAP, Odoo, and Exact Globe, ensuring production and accounting data stay in sync.
 * Automation for ROI: Using n8n (Agentic Workflows) and Python to build custom automation that improves business processes.
