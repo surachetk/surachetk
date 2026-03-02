@@ -1,6 +1,4 @@
-## 🙋‍♂️ About Me
-
-Hi! I'm **Surachet**,  
+🙋‍♂️  Hi! I'm **Surachet**,  
 IT Manager specializing in Manufacturing Excellence, ERP Management, and AI-driven Automation
 
 ---
