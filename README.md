@@ -1,27 +1,19 @@
-🙋‍♂️  Hi! I'm **Surachet**,  
-IT Manager specializing in Manufacturing Excellence, ERP Management, and AI-driven Automation
+# Hi 👋, I'm Surachet Kamlangpan
 
----
+### IT Manager | Digital Transformation & Automation Specialist 🏭
 
-I’m Into:
-
-- 🏭 Manufacturing IT: Smart Factory, ISO 9001/27001, Minimizing Downtime.  
-- 🔄 Automation: Agentic Workflows with n8n, Python automation for production lines. 
-- 🔄 📊 ERP Systems: Implementation & Management (SAP, Odoo, Exact Globe).  
-
----
-
-## 🎯 Goals:
-
-- 🚀 Driving Digital Transformation in industrial sectors.  
-- 🛠️ Building ROI-focused tools that bridge the gap between IT and Business Operations.  
+- 🔭 Currently leading IT operations at **Nam Ngai Hong Industry Co., Ltd.**
+- 🛡️ Specialized in **Cybersecurity** and **Cloud Infrastructure** (ComTIA Cloud+).
+- ⚡ Leveraging **Agentic Workflows (n8n)** and **Python** to drive business ROI.
+- 📊 Expertise in **ERP Ecosystems** (SAP, Odoo, Exact Globe).
+- 📫 Let's connect: **surachetk@gmail.com**
 
 ---
 
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker,js,react,mysql,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,n8n,docker,js,react,mysql,postgres,git,linux,vscode&theme=dark" />
   </a>
 </p>
 
@@ -29,8 +21,13 @@ I’m Into:
 
 ### 📈 Connect with me:
 <p align="left">
-<a href="mailto:surachetk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/surachet-kamlangpan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surachetk@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://www.linkedin.com/in/surachet-kamlangpan">
+  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 </p>
 
 ---
+*“Focusing on practical ERP solutions and digital tools that cut unnecessary costs.”*
