@@ -1,8 +1,7 @@
 # Surachet Kamlangpan
 
 ### IT Manager | Practical Solutions for Manufacturing & Automation
-
-I am an IT Manager with over 10 years of experience ensuring technology actually serves the business. My focus is straightforward: delivering ERP systems and digital tools that work in the real world to cut costs and fix inefficiencies.
+I’m an IT Manager with over 10 years of experience making sure technology actually serves the business. My focus is straightforward: delivering ERP systems and digital tools that work in the real world to cut costs and fix issues in business processes.
 
 ---
 
