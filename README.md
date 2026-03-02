@@ -21,9 +21,13 @@
 
 ### 📈 Connect with me:
 
-LinkedIn: https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin
-
-Gmail: https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/surachet-kamlangpan">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:surachetk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+</p>
 ---
-*“Focusing on practical ERP solutions and digital tools that cut unnecessary costs.”*
+
