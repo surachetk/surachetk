@@ -1,24 +1,22 @@
 ## 🙋‍♂️ About Me
 
 Hi! I'm **Surachet**,  
-a passionate developer from Thailand 🇹🇭 who enjoys building useful tools, automating tasks, and playing with AI.
+IT Manager specializing in Manufacturing Excellence, ERP Management, and AI-driven Automation
 
 ---
 
-## 🚀 What I’m Into:
+I’m Into:
 
-- 💻 Clean & simple web development  
-- 🧠 AI chatbot, LLM, offline RAG  
-- 🔄 Automating boring tasks with code  
-- 📚 Self-learning every day
+- 🏭 Manufacturing IT: Smart Factory, ISO 9001/27001, Minimizing Downtime.  
+- 🔄 Automation: Agentic Workflows with n8n, Python automation for production lines. 
+- 🔄 📊 ERP Systems: Implementation & Management (SAP, Odoo, Exact Globe).  
 
 ---
 
 ## 🎯 Goals:
 
-- 🧩 Master backend + LLM + vector DB  
-- ⚡ Build tools people actually use  
-- 🛠️ Share and grow with devs in the open
+- 🚀 Driving Digital Transformation in industrial sectors.  
+- 🛠️ Building ROI-focused tools that bridge the gap between IT and Business Operations.  
 
 ---
 
