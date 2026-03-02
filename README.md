@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:surachetk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=py,gmail&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
 ---
