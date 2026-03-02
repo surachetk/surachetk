@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="mailto:surachetk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />linkedin
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
 ---
